@@ -9,6 +9,6 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
-
+        <Button Content="Sacar foto" Click="Button_Click"/>
     </Grid>
 </Page>
